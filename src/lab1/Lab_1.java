@@ -3,13 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package lab_1;
+package lab1;
 
 import java.util.Scanner;
 
 /**
  *
- * @author ahmed
+ * @author NjeriWaithumbi
+ * 
  */
 public class Lab_1 {
     public static class printer{
